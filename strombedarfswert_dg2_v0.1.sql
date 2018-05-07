@@ -5,7 +5,7 @@
 Author: Tobias Weinzierl, Gopalam Moram
 Date: 03.05.2018
 
-************************ */
+************************* */
 
 
 UPDATE energiekarten.ergebnis_energie
